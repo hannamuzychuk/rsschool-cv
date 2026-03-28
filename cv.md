@@ -11,8 +11,10 @@
 - **Telegram** https://t.me/Hanna_Muzychuk
 
 ## About me
-Junior Front-End Developer passionate about building responsive web applications.  
-I am eager to learn new technologies and continuously improve my programming skills. 
+Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React.
+Skilled in building responsive, user-friendly web applications and integrating REST APIs. Familiar with
+Agile/Scrum, Git workflow, and code review. Motivated to continuously improve technical skills and
+deliver high-quality digital solutions.
 
 ## Technical Skills
 - HTML5, CSS3  
