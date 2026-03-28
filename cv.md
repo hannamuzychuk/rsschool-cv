@@ -4,7 +4,7 @@
 
 ![avatar](https://avatars.githubusercontent.com/u/56560266?v=4)
 
-## Contact
+## 📫 Contact
 - **Email:** hannamuzychuk@gmail.com
 - **Linkedin** https://www.linkedin.com/in/hannamuzychuk/
 - **Github**  https://github.com/hannamuzychuk
@@ -16,7 +16,7 @@ Skilled in building responsive, user-friendly web applications and integrating R
 Agile/Scrum, Git workflow, and code review. Motivated to continuously improve technical skills and
 deliver high-quality digital solutions.
 
-## Technical Skills
+## 🧰 Technical Skills
 - HTML5, CSS3  
 - JavaScript, TypeScript  
 - React  
@@ -24,22 +24,34 @@ deliver high-quality digital solutions.
 - Git, GitHub  
 - Responsive / Adaptive Design  
 
-## Code Example
+## 💻 Code Example
 function checkForSpam(message) {
+
     const messageLower = message.toLowerCase();
-    if (messageLower.includes("spam") || messageLower.includes("sale")) {
+
+    if (messageLower.includes("spam") || messageLower.includes
+    ("sale")) {
+
         return true;
+
     } else {
+
         return false;
+
     }
+
 }
 
 console.log(checkForSpam("Latest technology news")); // false
-console.log(checkForSpam("JavaScript weekly newsletter")); // false
+
+console.log(checkForSpam("JavaScript weekly newsletter")); //false
+
 console.log(checkForSpam("Get best sale offers now!")); // true
+
 console.log(checkForSpam("Amazing SalE, only tonight!")); // true
 
-## Education
+
+## 📝 Education
 - Lutsk National Technical University
   Bachelor of Engineering in Mechanical Engineering
   09/2009 – 06/2014, Lutsk
@@ -50,10 +62,15 @@ console.log(checkForSpam("Amazing SalE, only tonight!")); // true
   Fullstack Developer Course
   07/2025 – Present
 
-## Certifications
+## ✨ Certifications
 - Building AI Agents using Bielik AI and Google Ecosystem
 - IT Security: Defense against the Digital Dark Arts
 - Digital Literacy & Productivity – Learning Pathway
 - Career Essentials in Data Analysis – Microsoft & LinkedIn
 - Google IT Support
 - ISTQB Certified Tester – Foundation Level
+
+## 🌍 Languages
+- English — Intermediate
+- Polish — Advanced
+- Ukrainian — Native
